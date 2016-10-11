@@ -12,6 +12,8 @@ Sebelum mempelajati lebih lanjut diharapkan peserta telah membaca dan mempersiap
 * CSS Framework Bootstrap
 * Javascript Framework jQuery
 
+
+## Materi
 ### REST API
 Membuat RESTfull API Dengan Codeigniter – REST (REpresentational State Transfer) adalah suatu arsitektur atau metode komunikasi yang sering diterapkan dalam pengembangan layanan berbasis web. Arsitektur REST yang umumnya dijalankan via HTTP (Hypertext Transfer Protocol), melibatkan proses pembacaan laman web tertentu yang memuat sebuah file XML atau JSON. File inilah yang menguraikan dan memuat konten yang hendak disajikan. Setelah melalui sebuah proses definisi tertentu, konsumen dalam hal ini frontend atau Mobile (Android/iOS) akan bisa mengakses antarmuka aplikasi yang dimaksudkan.
 
@@ -30,6 +32,5 @@ Perhatikan table standar method yang didefinisikan untuk semua resource dan coll
 | OPTIONS | any | Return available HTTP methods and other options |
 
 
-## Materi
 ## Project
 
