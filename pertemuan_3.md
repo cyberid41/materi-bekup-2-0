@@ -37,7 +37,7 @@ Contoh request URI pada REST API
 HTTP GET http://www.appdomain.com/todos
 HTTP GET http://www.appdomain.com/todos?size=20&page=5
 HTTP GET http://www.appdomain.com/todos/123
-HTTP GET http://www.appdomain.com/todos/123/completed
+HTTP GET http://www.appdomain.com/todos/123/1
 ```
 
 Berikut contoh output dengan method `HTTP GET` pada RESTfull 
